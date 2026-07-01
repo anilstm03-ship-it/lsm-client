@@ -25,7 +25,7 @@ export default function AboutPage() {
       {/* Page Header */}
       <section className="hero-section">
         <div className="container py-5 text-center">
-          <h1 className="font-heading mb-2">About Vidyaans</h1>
+          <h1 className="font-heading mb-2">About Vidyaan</h1>
           <p className="text-white-50 mb-0">
             Empowering learners worldwide with quality online education
           </p>
